@@ -1,0 +1,6 @@
+White 28
+Black 30
+Asian 28
+Indian 24
+Multi 24
+Hispanic 27
